@@ -112,9 +112,8 @@ Light theme with a calm purple palette. Pink and blue are used only for the gend
 
 ## How to open
 
-1. Install Power BI Desktop.
-2. Open `Student_Performance_Dashboard.pbix`.
-3. If Power BI asks for the data path, point it to `study_performance.csv` (Transform data, then Data source settings).
+1. Open `Student_Performance_Dashboard.pbix`.
+2. If Power BI asks for the data path, point it to `study_performance.csv` (Transform data, then Data source settings).
 
 ## Files
 
