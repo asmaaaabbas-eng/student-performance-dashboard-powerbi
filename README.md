@@ -2,7 +2,7 @@
 
 Route Power BI - Assignment 2. A one-page Power BI dashboard that analyses student exam performance by subject, gender, race/ethnicity and parental education.
 
-![Dashboard](images/dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Dataset
 
